@@ -1,0 +1,8 @@
+{
+  "info": {
+    "author": "Lunar",
+    "author_url": "",
+    "description": "This script lets you sink your boat by typing /sink. Currently if you try to do it over a slope or a shallow area it doesn't work or may not look right.",
+    "name": "sink"
+  }
+}
